@@ -3,9 +3,9 @@
 
 - 🌱 Currently I'm sharpening my skills in full-stack **web development** and diving into **DevOps**
 
-- 🌐 Explore my work and learn more about me on my <a href="https://thashmilajayasinghe.vercel.app/" target="_blank">personal portfolio</a>.
+- 🌐 Explore my work and learn more about me on my [personal portfolio](https://thashmilajayasinghe.vercel.app/).
 
-- 📫 Let's connect: <a href="mailto:thashmilajayasinghe@gmail.com" target="_blank">thashmilajayasinghe@gmail.com</a>
+- 📫 Reach me at **thashmilajayasinghe@gmail.com**
 
 
 <!-- <h3 align="left">Connect with me:</h3>
