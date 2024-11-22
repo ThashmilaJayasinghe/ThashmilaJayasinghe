@@ -5,7 +5,7 @@
 
 - 🌐 Explore my work and learn more about me on my [personal portfolio](https://thashmilajayasinghe.vercel.app/).
 
-- 📫 Reach me at **thashmilajayasinghe@gmail.com**
+- 📫 Reach me at thashmilajayasinghe@gmail.com
 
 
 <!-- <h3 align="left">Connect with me:</h3>
