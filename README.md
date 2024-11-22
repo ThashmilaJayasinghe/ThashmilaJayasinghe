@@ -5,7 +5,7 @@
 
 - 🌐 Explore my work and learn more about me on my <a href="https://thashmilajayasinghe.vercel.app/" target="_blank">personal portfolio</a>.
 
-- 📫 Reach me at <a href="mailto:thashmilajayasinghe@gmail.com" target="_blank">Email</a>
+- 📫 Let's connect: <a href="mailto:thashmilajayasinghe@gmail.com" target="_blank">thashmilajayasinghe@gmail.com</a>
 
 
 <!-- <h3 align="left">Connect with me:</h3>
