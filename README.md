@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Thashmila!</h1>
-<h3 align="center">I'm a passionate full-stack web developer specializing in MERN stack.</h3>
+<h3 align="center">I'm a passionate full-stack web developer.</h3>
 
 - 🌱 Currently I'm sharpening my skills in full-stack **web development** and diving into **DevOps**
 
